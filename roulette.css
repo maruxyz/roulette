@@ -1,0 +1,28 @@
+.main {
+	width: 100%;  
+	text-align: center;
+}  
+
+.nameplate {
+	margin: 3px auto;  
+	border-radius: 10px;			/* CSS3‘ˆÄ */
+	-webkit-border-radius: 10px;	/* Safari,Google Chrome—p */
+	-moz-border-radius: 10px;		/* Firefox—p */
+	border: 3px #009966 solid;		/* ˜gü‚Ì‘•ü */
+	width: 100px;
+	height: 30px;
+	text-align: center;
+	line-height: 30px;
+}
+
+span.name {
+	color: #009966;
+}
+
+.startbutton {
+	width: 150px;
+	text-align: center;
+	margin: 10px auto;
+}
+
+
